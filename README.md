@@ -1,0 +1,2 @@
+# time_series_framework
+This framework automates the modeling of critical signals using multiple training algorithms to find the most accurate prediction model by finding the best correlation with other available signals. Additionally, it inferences live signal data and predicts critical signals using the best model generated previously. It compares the predicted and the actual signal value to raise warnings if anomaly is detected. 
