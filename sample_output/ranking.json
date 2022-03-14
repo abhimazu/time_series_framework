@@ -1,0 +1,9 @@
+{
+    "1": "linear_reg",
+    "2": "elastic_net",
+    "3": "kernel_ridge",
+    "4": "neural_MLP",
+    "5": "gradient_boost",
+    "6": "support_vector",
+    "7": "radius_neighbor"
+}

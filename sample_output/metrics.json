@@ -1,0 +1,37 @@
+{
+    "linear_reg": {
+        "variance_score": 0.9550832327565396,
+        "r2_score": 0.955043586790673,
+        "root_mean_sq_err": 27.665777532822577
+    },
+    "elastic_net": {
+        "variance_score": 0.9539956175962918,
+        "r2_score": 0.9539776873820258,
+        "root_mean_sq_err": 27.99182873324555
+    },
+    "kernel_ridge": {
+        "variance_score": 0.9526824963370468,
+        "r2_score": 0.9526596499204192,
+        "root_mean_sq_err": 28.38982959738143
+    },
+    "support_vector": {
+        "variance_score": 0.07326005432458127,
+        "r2_score": 0.07305218201683494,
+        "root_mean_sq_err": 125.6246013003278
+    },
+    "radius_neighbor": {
+        "variance_score": 0,
+        "r2_score": 0,
+        "root_mean_sq_err": 9999
+    },
+    "gradient_boost": {
+        "variance_score": 0.9418754171225605,
+        "r2_score": 0.9418606142796895,
+        "root_mean_sq_err": 31.461706306843727
+    },
+    "neural_MLP": {
+        "variance_score": 0.9515015472393102,
+        "r2_score": 0.9514752913497933,
+        "root_mean_sq_err": 28.74276349931538
+    }
+}
